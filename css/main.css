@@ -23,6 +23,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 100%; }
 
 h1 { margin-bottom: 1em; }
+h2, h3, h4, h5, h6 { margin-top: 2em; }
 p { margin: 1em 0; }
 
 a         { color: #00a; }
@@ -132,6 +133,7 @@ ul.posts span {
   border: 1px solid #ddd;
   background-color: #eef;
   padding: 0 .4em;
+  overflow: auto;
 }
 
 .post ul, .post ol {
