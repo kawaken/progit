@@ -3,5 +3,5 @@ markdown: redcarpet
 pygments: true
 exclude: ['.gitignore', 'bin', 'vendor', 'Gemfile', 'Gemfile.lock', 'Rakefile']
 
-name: Pro Git 日本語版
+name: Pro Git 日本語版 for iPhone
 url: ""
